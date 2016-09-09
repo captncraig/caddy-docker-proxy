@@ -1,0 +1,4 @@
+#empty caddyfile to start up with
+:80 {
+
+}
